@@ -1,0 +1,39 @@
+# Carpetas de dependencias
+node_modules/
+
+# Carpetas de configuración personal
+.anaconda/
+.conda/
+.continuum/
+.eclipse/
+.idlerc/
+.ipython/
+.jupyter/
+.p2/
+.vscode/
+anaconda3/
+
+# Carpetas de Windows personales
+3D Objects/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Carpetas de proyectos o entornos ajenos al proyecto
+eclipse/
+eclipse-workspace/
+pseint/
+Upserver/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+desktop.ini
